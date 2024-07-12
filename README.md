@@ -8,6 +8,8 @@
 <br>
 <br>
 
+<table>
+<tbody>
 <tr>
 <th align="left> Frontend Development </th>
 	<td>

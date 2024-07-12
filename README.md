@@ -47,6 +47,8 @@
     		<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
     		<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     		<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?style=for-the-badge&logo=apache&logoColor=white" />
+		<img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" />
+		<img src="https://img.shields.io/badge/Sourcetree-0052CC.svg?style=for-the-badge&logo=Sourcetree&logoColor=white" />
 	</td>
 </tr>
 

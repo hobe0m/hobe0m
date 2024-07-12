@@ -2,7 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=Hobe0m%20GitHub!👋🏻&fontSize=70&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62"/>
 </p>
 
-##About Me##
 
 <div align="center">
 	<h3>📚 Tech Stack 📚</h3>

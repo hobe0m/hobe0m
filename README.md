@@ -7,7 +7,7 @@
 </div>
 <br/>
 <div align="center">
-	<h3>✨ Platrforms & Languages ✨</h2> 
+	<h3>✨ Platforms & Languages ✨</h2> 
 </div>
 <div align="center">
 	<div>
@@ -22,6 +22,8 @@
 		<img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white" />
 		<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />
 		<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white" />
+		<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
+		<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
 		<img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white" />
 	</div>
 	<div>

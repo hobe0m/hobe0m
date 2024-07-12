@@ -11,7 +11,7 @@
 <table>
 <tbody>
 <tr>
-<th align="left> Frontend Development </th>
+<th align="left"> Frontend Development </th>
 	<td>
     		<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     		<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -24,7 +24,7 @@
 </tr>
 
 <tr>
-<th align="left> Backend Development </th>
+<th align="left"> Backend Development </th>
 	<td>
     		<img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
     		<img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
@@ -35,7 +35,7 @@
 </tr>
 
 <tr>
-<th align="left> Others </th>
+<th align="left"> Others </th>
 	<td>
 	        <img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=json&logoColor=white" />
 		<img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -45,7 +45,7 @@
 </tr>
 
 <tr>
-<th align="left> Development Tools </th>
+<th align="left"> Development Tools </th>
 	<td>
     		<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
     		<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />

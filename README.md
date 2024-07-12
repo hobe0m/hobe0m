@@ -22,7 +22,7 @@
 		<img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white" />
 		<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />
 		<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white" />
-		<img src="https://img.shields.io/badge/Servlet.js-FF3E00?style=for-the-badge&logo=Servlet&logoColor=white" />
+		<img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white" />
 	</div>
 	<div>
   		<img src="https://img.shields.io/badge/Amazonwebservices-232F3E?style=for-the-badge&logo=Amazonwebservices&logoColor=white" />
